@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: './docs'
   },
-base: '/tg-web-app/'
+base: './tg-web-app/'
 })
